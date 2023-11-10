@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working to my future [Basic_Calculator](https://github.com/ozay-mehmet/Basic_Calculator)
 
-- 🌱 I’m currently learning on C and Python **Basic_Calculator**
+- 🌱 I’m currently learning on C and Python 
 
 - 💬 Ask me about **HTML and CSS**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://outlook.live.com/mail/0/</h3>
 <p align="left">
 </p>
 
