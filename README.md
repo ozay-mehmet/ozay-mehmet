@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML and CSS**
 
-<h3 align="left">Connect with me: https://outlook.live.com/mail/0/</h3>
+<h3 align="left">Connect with me: **mehmetozay45@hotmail.com**</h3>
 <p align="left">
 </p>
 
