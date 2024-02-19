@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehmet Özay</h1>
 <h3 align="center">Young software developer dedicated to self-improvement</h3>
-<img src="https://www.google.com/search?q=animated+gif+for+github&tbm=isch&ved=2ahUKEwjXkvD5nbeEAxUaoP0HHeaDDf4Q2-cCegQIABAA&oq=animated+gif+for+github&gs_lp=EgNpbWciF2FuaW1hdGVkIGdpZiBmb3IgZ2l0aHViSK0WUKgHWN4McAB4AJABAJgByQGgAZYEqgEFMC4yLjG4AQPIAQD4AQGKAgtnd3Mtd2l6LWltZ4gGAQ&sclient=img&ei=oDLTZdfCCJrA9u8P5oe28A8&bih=912&biw=1920&rlz=1C1GCEU_trTR1081TR1081#imgrc=LOz2HHLgKx2CDM&imgdii=MwozBsUeOfn96M">
+<img align="right" alt="coding" width="400" src="https://www.google.com/search?q=animated+gif+for+github&tbm=isch&ved=2ahUKEwjXkvD5nbeEAxUaoP0HHeaDDf4Q2-cCegQIABAA&oq=animated+gif+for+github&gs_lp=EgNpbWciF2FuaW1hdGVkIGdpZiBmb3IgZ2l0aHViSK0WUKgHWN4McAB4AJABAJgByQGgAZYEqgEFMC4yLjG4AQPIAQD4AQGKAgtnd3Mtd2l6LWltZ4gGAQ&sclient=img&ei=oDLTZdfCCJrA9u8P5oe28A8&bih=912&biw=1920&rlz=1C1GCEU_trTR1081TR1081#imgrc=LOz2HHLgKx2CDM&imgdii=MwozBsUeOfn96M">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozay-mehmet&label=Profile%20views&color=0e75b6&style=flat" alt="ozay-mehmet" /> </p>
 
 - 🔭 I’m currently working to my future **as a computer engineering student**
