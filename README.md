@@ -1,69 +1,106 @@
-<h1 align="center">👋 Hi there, I'm Mehmet Özay</h1>
-<h3 align="center">🚀 A Passionate Software Developer | Computer Engineering Student | Lifelong Learner</h3>
-
+<!-- Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400"/>
+  <img src="https://i.imgur.com/B0U5Z2F.png" width="100%" alt="banner"/>
 </p>
 
+<h1 align="center">👋 Hi, I'm <strong>Mehmet Özay</strong></h1>
+<h3 align="center">Software Developer • Cybersecurity Learner • Computer Engineering Student</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ozay-mehmet&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Developer;Cybersecurity+Enthusiast;Always+Learning,+Always+Building;Welcome+to+my+GitHub!&center=true&width=500&height=45" />
 </p>
 
 ---
 
-### 🌟 About Me
-- 🎓 I'm currently pursuing my degree in **Computer Engineering**
-- 💡 Always curious and eager to improve myself in the field of **software development & cybersecurity**
-- 🔍 Exploring areas such as **cloud security, reverse engineering, and AI integration**
-- 📫 Reach me at: **mehmetozay45@hotmail.com**
+## 🌟 About Me
+- 🎓 Computer Engineering student  
+- 🔒 Deep interest in **cybersecurity, reverse engineering, and cloud security**  
+- 💻 Love to build clean, scalable and secure systems  
+- 📚 Always exploring: **Systems, Networks, AI, Linux, DevOps**  
+- 📩 Contact: **mehmetozay45@hotmail.com**
 
 ---
 
-### 🌐 Connect with Me
-
+## 🌐 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/mehmet-ozay/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" height="80"/>
-  </a>
+  <a href="https://www.linkedin.com/in/mehmet-ozay/"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
+  <a href="mailto:mehmetozay45@hotmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" /></a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
+## 🛠 Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,java,html,css,git,linux,bash,docker,aws,github,vscode" height="50"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🧠 Cybersecurity Progress
+<p align="center">
+  <img src="https://i.imgur.com/Mz2J9Vj.png" width="60%">
+</p>
+
+✔️ Linux Hardening  
+✔️ Basic Reverse Engineering  
+✔️ CTF Platforms  
+✔️ Network Fundamentals  
+⬜ Malware Analysis  
+⬜ Cloud Security Certifications  
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ozay-mehmet&show_icons=true&theme=tokyonight" alt="Mehmet Özay GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ozay-mehmet&theme=tokyonight&show_icons=true&count_private=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=ozay-mehmet&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozay-mehmet&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozay-mehmet&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozay-mehmet&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🎯 Motto
+## 🧩 Dynamic Developer Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ozay-mehmet&theme=tokyonight" width="90%"/>
+</p>
+
+---
+
+## 🛰️ Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ozay-mehmet&theme=tokyo-night" width="95%"/>
+</p>
+
+---
+
+## 🏆 Achievements & Badges
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ozay-mehmet&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🧩 Fun Zone
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="130">
+  <img src="https://media.giphy.com/media/kaBU6pgv0OsPHz2yxy/giphy.gif" width="130">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="130">
+</p>
+
+---
+
+## 🎯 Motto
 > _“Improvement begins with intention and continues with dedication.”_
 
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/214373791-293fa4f8-9ebd-4de5-9cb5-56033dc3d6ce.jpg" width="250"/>
+  <img src="https://i.imgur.com/4M7IWwP.gif" width="250" alt="thanks"/>
+  <br>
+  <strong>Thanks for visiting! 🚀</strong>
 </p>
