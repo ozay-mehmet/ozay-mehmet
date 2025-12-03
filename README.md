@@ -31,7 +31,7 @@
 
 ## 🛠 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,java,html,css,git,linux,bash,github" height="50"/>
+  <img src="https://skillicons.dev/icons?i=c,python,java,kotlin,html,css,git,linux,github" height="50"/>
 </p>
 
 ---
