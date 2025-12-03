@@ -38,7 +38,7 @@
 
 ## 🧠 Cybersecurity Progress
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/AlignedCode/ai-security-lab/main/assets/cybersecurity.gif" width="70%" />
 </p>
 
 ✔️ Linux Hardening  
@@ -50,46 +50,10 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ozay-mehmet&theme=tokyonight&show_icons=true&count_private=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=ozay-mehmet&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozay-mehmet&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🧩 Dynamic Developer Card
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ozay-mehmet&theme=tokyonight" width="90%"/>
-</p>
-
----
-
-## 🛰️ Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ozay-mehmet&theme=tokyo-night" width="95%"/>
-</p>
-
----
-
-## 🏆 Achievements & Badges
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ozay-mehmet&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🧩 Fun Zone
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="130">
-  <img src="https://media.giphy.com/media/kaBU6pgv0OsPHz2yxy/giphy.gif" width="130">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="130">
 </p>
 
 ---
@@ -101,7 +65,7 @@
 
 <p align="center">
   <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/headers/inspire.png" width="70%" />
   </p>
   <br>
   <strong>Thanks for visiting! 🚀</strong>
