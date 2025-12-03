@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/B0U5Z2F.png" width="100%" alt="banner"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm <strong>Mehmet Özay</strong></h1>
@@ -14,31 +14,31 @@
 
 ## 🌟 About Me
 - 🎓 Computer Engineering student  
-- 🔒 Deep interest in **cybersecurity, reverse engineering, and cloud security**  
+- 🔒 Deep interest in **cybersecurity, OSINT, and cloud security**  
 - 💻 Love to build clean, scalable and secure systems  
-- 📚 Always exploring: **Systems, Networks, AI, Linux, DevOps**  
-- 📩 Contact: **mehmetozay45@hotmail.com**
+- 📚 Always exploring: **Systems, Networks, AI, Linux, C**  
+- 📩 Contact: **mehmetozay1204@gmail.com**
 
 ---
 
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/mehmet-ozay/"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
-  <a href="mailto:mehmetozay45@hotmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" /></a>
+  <a href="mailto:mehmetozay1204@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" /></a>
 </p>
 
 ---
 
 ## 🛠 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,java,html,css,git,linux,bash,docker,aws,github,vscode" height="50"/>
+  <img src="https://skillicons.dev/icons?i=c,python,java,html,css,git,linux,bash,github" height="50"/>
 </p>
 
 ---
 
 ## 🧠 Cybersecurity Progress
 <p align="center">
-  <img src="https://i.imgur.com/Mz2J9Vj.png" width="60%">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 ✔️ Linux Hardening  
@@ -100,7 +100,9 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/4M7IWwP.gif" width="250" alt="thanks"/>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </p>
   <br>
   <strong>Thanks for visiting! 🚀</strong>
 </p>
