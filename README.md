@@ -64,9 +64,6 @@
 ---
 
 <p align="center">
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/headers/inspire.png" width="70%" />
-  </p>
   <br>
   <strong>Thanks for visiting! 🚀</strong>
 </p>
