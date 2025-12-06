@@ -37,9 +37,6 @@
 ---
 
 ## 🧠 Cybersecurity Progress
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AlignedCode/ai-security-lab/main/assets/cybersecurity.gif" width="70%" />
-</p>
 
 ✔️ Linux Hardening  
 ✔️ Basic Reverse Engineering  
