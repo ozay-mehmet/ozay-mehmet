@@ -1,11 +1,3 @@
-<div align="center">
-  <a href="https://www.42.com.tr/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="120" alt="42 Logo" style="filter: invert(1);" />
-  </a>
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=42+T%C3%BCrkiye+Student;Born+to+Code...;Cybersecurity+Enthusiast+%F0%9F%94%92;System+Hardening+%26+Defense;User:+Mehmet+%C3%96zay&font=Fira+Code&center=true&width=500&height=50&color=00babc&vCenter=true&size=20&background=000000" />
-</div>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
 </p>
