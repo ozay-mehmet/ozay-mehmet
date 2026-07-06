@@ -1,45 +1,45 @@
-# Hi there 👋 I'm Mehmet Özay
+# 👋 Hi, I'm Mehmet Özay
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=%24+whoami;Mehmet+%C3%96zay;Cybersecurity+Learner+in+Progress;Learn.+Apply.+Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=00FF99&center=true&vCenter=true&width=700&lines=%24+whoami;Mehmet+%C3%96zay;Computer+Engineering+Student;Cybersecurity+Learner;Learn.+Build.+Secure." />
 
 <br>
 
-<a href="https://www.linkedin.com/in/mehmet-ozay/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/mehmet-ozay">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:mehmetozay1204@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 💫 About Me
+## 💻 About Me
 
-```bash
+```console
 mehmet@42:~$ whoami
 
-Name        : Mehmet Özay
-Role        : Computer Engineering Student
-School      : 42
-Focus       : Cybersecurity • Cloud • Networking
-Learning    : Linux, C, Python, Docker
-Goal        : Security Expert
-Status      : Building, Learning, Improving...
+👤 Name      : Mehmet Özay
+🎓 School    : 42
+📚 Major     : Computer Engineering
+🔒 Focus     : Cybersecurity
+☁️ Interest  : Cloud & Network Security
+🐧 OS        : Linux
+🚀 Goal      : Security Engineer
 ```
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,python,java,kotlin,bash,js,nodejs,php,html,css" />
+<img src="https://skillicons.dev/icons?i=c,python,java,kotlin,js,nodejs,php,html,css,bash" />
 </p>
 
 ### Tools
@@ -48,27 +48,15 @@ Status      : Building, Learning, Improving...
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea" />
 </p>
 
-### Cloud & Security
+### Currently Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,docker" />
+<img src="https://skillicons.dev/icons?i=docker,linux" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ozay-mehmet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozay-mehmet&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## ⏰ Coding Habits
+# 📊 GitHub Activity
 
 <div align="center">
 
@@ -78,17 +66,7 @@ Status      : Building, Learning, Improving...
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ozay-mehmet&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -98,36 +76,24 @@ Status      : Building, Learning, Improving...
 
 ---
 
-## 🏆 Achievements
+# 🏅 Certifications
 
-- 🎓 Computer Engineering Student
-- 🚀 42 Common Core
-- ☁ Huawei Cloud Tech Essentials
-- 🔒 Cybersecurity Learner
-- 🐧 Linux Enthusiast
+- 🎓 42 Common Core *(In Progress)*
+- ☁️ Huawei Cloud Tech Essentials
 
 ---
 
-## 📚 Currently Learning
-
-- Linux System Programming
-- Computer Networks
-- Docker
-- Cloud Security
-- Reverse Engineering
-- Web Security
-- C Programming
-- Algorithms & Data Structures
-
----
-
-## 📫 Contact
+# 📫 Contact
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehmet%20Özay-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mehmet-ozay/)
+<a href="mailto:mehmetozay1204@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-[![Mail](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:mehmetozay1204@gmail.com)
+<a href="https://www.linkedin.com/in/mehmet-ozay">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
@@ -135,8 +101,8 @@ Status      : Building, Learning, Improving...
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+*"First, solve the problem. Then, secure the solution."* 🔐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:007CF0&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"/>
 
 </div>
