@@ -7,12 +7,17 @@
 <br>
 
 <a href="https://www.linkedin.com/in/mehmet-ozay">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:mehmetozay1204@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="mailto:mehmetozay1204@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br><br>
+
+<img src="https://img.shields.io/badge/42_Türkiye-000000?style=flat-square&logo=42&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bilişim_Vadisi,_Kocaeli-0072FF?style=flat-square&logo=googlemaps&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=ozay-mehmet&label=Profile%20Views&color=00C6FF&style=flat-square"/>
 
 </div>
 
@@ -22,9 +27,8 @@
 
 ```console
 mehmet@42:~$ whoami
-
 👤 Name      : Mehmet Özay
-🎓 School    : 42
+🎓 School    : Bursa Technical University && 42
 📚 Major     : Computer Engineering
 🔒 Focus     : Cybersecurity
 ☁️ Interest  : Cloud & Network Security
@@ -34,7 +38,7 @@ mehmet@42:~$ whoami
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
 ### Languages
 
@@ -56,43 +60,58 @@ mehmet@42:~$ whoami
 
 ---
 
-# 📊 GitHub Activity
+## 📌 Öne Çıkan Projeler
+
+| Proje | Açıklama | Dil |
+|---|---|---|
+| [42-Libft](https://github.com/ozay-mehmet/42-Libft) | 42 Libft projesindeki istenilen tüm fonksiyonların C ile yeniden implementasyonu | ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) |
+| [42-Get_Next_Line](https://github.com/ozay-mehmet/42-Get_Next_Line) | Bir dosya tanımlayıcısından satır satır okuma yapan, birden fazla fd'yi ve buffer yönetimini destekleyen fonksiyon | ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) |
+| [42-Printf](https://github.com/ozay-mehmet/42-Printf) | Standart `printf` fonksiyonunun formatlı çıktı ve variadik argüman desteğiyle özel implementasyonu | ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) |
+| [42-Piscine](https://github.com/ozay-mehmet/42-Piscine) | 42 Piscine sürecindeki C ve Shell projelerinin detaylı çözümleri | ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) |
+| [42-Python-Projects](https://github.com/ozay-mehmet/42-Python-Projects) | Fonksiyonel programlamadan OOP, hata yönetimi, tasarım desenleri ve ortam yönetimine uzanan 42 Python müfredatı projeleri | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [Syntax-Highlighter](https://github.com/ozay-mehmet/Syntax-Highlighter) | PyQt5 ile GUI, Pygments ile çok dilli kod analizi yapan gerçek zamanlı, grammar-aware syntax highlighter | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+
+---
+
+## 📊 GitHub Stats & Streak
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ozay-mehmet&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ozay-mehmet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozay-mehmet&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=ozay-mehmet&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
 </div>
 
 ---
 
-# 🏅 Certifications
+## 🏅 Certifications
 
 - 🎓 42 Common Core *(In Progress)*
 - ☁️ Huawei Cloud Tech Essentials
 
 ---
 
-# 📫 Contact
+## 📫 Contact
 
 <div align="center">
 
 <a href="mailto:mehmetozay1204@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/mehmet-ozay">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
